@@ -1,0 +1,1 @@
+$config['base_url'] = 'http://localhost/pagination_ci/';
